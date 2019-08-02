@@ -6,7 +6,7 @@ except ImportError:
 config = {
         'description': 'Continuous wavelet analysis in Python',
         'author': "Aaron O'Leary",
-        'url': 'http://github.com/aaren/wavelets',
+        'url': 'http://github.com/barondu/wavelets',
         'author_email': 'eeaol@leeds.ac.uk',
         'version': '0.1',
         'packages': ['wavelets'],
